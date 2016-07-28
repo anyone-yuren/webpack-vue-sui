@@ -1,0 +1,22 @@
+{
+	"list": [
+		{
+			"name": "首页",
+			"router":"content",
+			"tag": true
+		}, {
+			"name": "我",
+			"router":"me",
+			"tag": false
+		}, {
+			"name": "收藏",
+			"router":"star",
+			"tag": false
+		}, {
+			"name": "设置",
+			"router":"content",
+			"tag": false
+		}
+	]
+}
+ 
